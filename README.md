@@ -1,1 +1,3 @@
 # TIM masternodes
+
+Not functional
