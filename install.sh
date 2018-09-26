@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='timeismoney.conf'
-CONFIGFOLDER='/root/.TimeIsMoney'
+CONFIGFOLDER='/root/.timeismoney/mainnet'
 COIN_DAEMON='timeismoneyd'
 COIN_CLI='timeismoney-cli'
 COIN_PATH='/usr/local/bin/'
